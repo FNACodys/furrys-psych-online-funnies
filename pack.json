@@ -1,0 +1,9 @@
+{
+	"name": "Ourple",
+	"description": "The games we play are fun, aren't they?",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [0, 148, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

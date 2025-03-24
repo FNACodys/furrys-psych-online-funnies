@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				313,
+				590
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				511,
+				503
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				609,
+				498
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				349,
+				645
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				333,
+				456
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				490,
+				628
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mario_Phase_2",
+	"position": [
+		150,
+		430
+	],
+	"healthicon": "p3",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		101,
+		0
+	],
+	"camera_position": [
+		-500,
+		-460
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
