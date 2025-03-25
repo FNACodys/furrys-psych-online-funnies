@@ -1,6 +1,6 @@
 {
 	"name": "Furry's Funnies",
-	"description": "The games we play are fun, aren't they?",
+	"description": "Funny",
 	"restart":false,
 	"runsGlobally": true,
 	"color": [0, 148, 255],
