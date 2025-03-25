@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Junko_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Junko Down0000" x="50" y="50" width="771" height="1086"/>
+	<SubTexture name="Junko Down0001" x="50" y="50" width="771" height="1086"/>
+	<SubTexture name="Junko Down0002" x="921" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0003" x="921" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0004" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0005" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0006" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0007" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0008" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0009" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0010" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0011" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0012" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0013" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0014" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0015" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0016" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0017" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0018" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0019" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0020" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0021" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0022" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0023" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Down0024" x="1773" y="50" width="752" height="1085" frameX="-7" frameY="0" frameWidth="771" frameHeight="1086"/>
+	<SubTexture name="Junko Idle0000" x="2625" y="50" width="852" height="1140" frameX="-7" frameY="-8" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0001" x="2625" y="50" width="852" height="1140" frameX="-7" frameY="-8" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0002" x="50" y="1290" width="859" height="1141" frameX="0" frameY="0" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0003" x="50" y="1290" width="859" height="1141" frameX="0" frameY="0" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0004" x="1009" y="1290" width="838" height="1124" frameX="-8" frameY="-12" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0005" x="1009" y="1290" width="838" height="1124" frameX="-8" frameY="-12" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0006" x="1947" y="1290" width="832" height="1121" frameX="-10" frameY="-15" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0007" x="1947" y="1290" width="832" height="1121" frameX="-10" frameY="-15" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0008" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0009" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0010" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0011" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0012" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Idle0013" x="2879" y="1290" width="824" height="1118" frameX="-13" frameY="-18" frameWidth="859" frameHeight="1148"/>
+	<SubTexture name="Junko Left0000" x="50" y="2531" width="886" height="1123"/>
+	<SubTexture name="Junko Left0001" x="50" y="2531" width="886" height="1123"/>
+	<SubTexture name="Junko Left0002" x="1036" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0003" x="1036" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0004" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0005" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0006" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0007" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0008" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0009" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0010" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0011" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0012" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0013" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0014" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0015" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0016" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0017" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0018" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0019" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0020" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0021" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0022" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0023" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Left0024" x="2001" y="2531" width="865" height="1109" frameX="-18" frameY="-14" frameWidth="886" frameHeight="1123"/>
+	<SubTexture name="Junko Right0000" x="2966" y="2531" width="896" height="1053" frameX="-7" frameY="-10" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0001" x="2966" y="2531" width="896" height="1053" frameX="-7" frameY="-10" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0002" x="50" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0003" x="50" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0004" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0005" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0006" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0007" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0008" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0009" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0010" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0011" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0012" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0013" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0014" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0015" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0016" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0017" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0018" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0019" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0020" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0021" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0022" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0023" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Right0024" x="1046" y="3754" width="896" height="1063" frameX="0" frameY="0" frameWidth="903" frameHeight="1063"/>
+	<SubTexture name="Junko Up0000" x="2042" y="3754" width="869" height="1232"/>
+	<SubTexture name="Junko Up0001" x="2042" y="3754" width="869" height="1232"/>
+	<SubTexture name="Junko Up0002" x="3011" y="3754" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0003" x="3011" y="3754" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0004" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0005" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0006" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0007" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0008" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0009" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0010" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0011" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0012" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0013" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0014" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0015" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0016" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0017" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0018" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0019" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0020" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0021" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0022" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0023" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0024" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0025" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0026" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0027" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0028" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+	<SubTexture name="Junko Up0029" x="50" y="5086" width="852" height="1218" frameX="-11" frameY="-14" frameWidth="869" frameHeight="1232"/>
+</TextureAtlas>
