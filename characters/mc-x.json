@@ -1,0 +1,115 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "sonicexe left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "sonicexe down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 12,
+			"name": "sonicexe up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "sonicexe right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 12,
+			"name": "sonicexe idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 12,
+			"name": "sonicexe loop idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1,
+				1
+			],
+			"fps": 12,
+			"anim": "hey",
+			"loop": true,
+			"name": "sonicexe laugh"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/sonicexe2",
+	"position": [
+		-790,
+		-620
+	],
+	"healthicon": "mcx",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		20,
+		255
+	],
+	"camera_position": [
+		600,
+		650
+	],
+	"sing_duration": 6.1,
+	"scale": 0.45,
+	"_editor_isPlayer": false
+}

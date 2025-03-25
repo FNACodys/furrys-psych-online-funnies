@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Monokuma_Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Monokuma_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Monokuma_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Monokuma_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-116,
+				-14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Monokuma_Down",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Monokuma_Assets",
+	"position": [
+		-110,
+		260
+	],
+	"healthicon": "monokuma",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		80,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": false
+}

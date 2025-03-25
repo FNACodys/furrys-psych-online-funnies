@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "soos idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "soos right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "soos left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "soos down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "soos up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "soos eepy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "eepy",
+			"fps": 12,
+			"name": "soos fall",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "wake",
+			"fps": 12,
+			"name": "soos wake",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/soos",
+	"position": [
+		-250,
+		0
+	],
+	"healthicon": "susie",
+	"flip_x": false,
+	"healthbar_colors": [
+		202,
+		71,
+		255
+	],
+	"camera_position": [
+		90,
+		240
+	],
+	"sing_duration": 4,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}

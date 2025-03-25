@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "racistidle"
+		},
+		{
+			"offsets": [
+				50,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "racistup"
+		},
+		{
+			"offsets": [
+				47,
+				-46
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "racistdown"
+		},
+		{
+			"offsets": [
+				92,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "racistright"
+		},
+		{
+			"offsets": [
+				106,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "racistleft"
+		},
+		{
+			"offsets": [
+				88,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "madright"
+		},
+		{
+			"offsets": [
+				44,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "maddown"
+		},
+		{
+			"offsets": [
+				48,
+				18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "madup"
+		},
+		{
+			"offsets": [
+				107,
+				-25
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "madleft"
+		},
+		{
+			"offsets": [
+				-5,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "red_eye"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/perseverance",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "perseverance-sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		57,
+		49,
+		119
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 5,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

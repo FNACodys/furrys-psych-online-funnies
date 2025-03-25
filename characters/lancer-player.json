@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "throsh down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "throsh up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "throsh idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "throsh idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "throsh left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "throsh right"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/throsh",
+	"position": [
+		-250,
+		50
+	],
+	"healthicon": "lancer-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		81,
+		91,
+		170
+	],
+	"camera_position": [
+		-100,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 0.65,
+	"_editor_isPlayer": true
+}

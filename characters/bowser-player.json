@@ -1,0 +1,236 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				6
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-106
+			],
+			"anim": "singDOWNmiss",
+			"fps": 15,
+			"name": "downMISS0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-55
+			],
+			"anim": "singUPmiss",
+			"fps": 15,
+			"name": "upMISS0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				-45
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "fullpunch",
+			"indices": [],
+			"name": "bowser-playable PUNCH0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "windpunch",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "bowser-playable PUNCH0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "pulsepunch",
+			"indices": [
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "bowser-playable PUNCH0"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "holdpunch",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "bowser-playable PUNCH0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "releasepunch",
+			"fps": 15,
+			"name": "bowser-playable PUNCH0",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "releasepunchhold",
+			"fps": 15,
+			"name": "bowser-playable PUNCH0",
+			"indices": [
+				18,
+				19
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-102
+			],
+			"anim": "firstDeath",
+			"fps": 15,
+			"name": "gameOver0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				-51,
+				-61
+			],
+			"indices": [
+				0,
+				1,
+				2
+			],
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "rightMISS0"
+		},
+		{
+			"offsets": [
+				20,
+				-62
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "leftMISS0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bowser-playable",
+	"position": [
+		-550,
+		-150
+	],
+	"healthicon": "bowser",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		5,
+		0
+	],
+	"camera_position": [
+		-490,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

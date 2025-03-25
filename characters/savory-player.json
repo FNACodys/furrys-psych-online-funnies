@@ -1,0 +1,212 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				478
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SavoryIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				338
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SavoryDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				532
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SavoryUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				2108
+			],
+			"anim": "land",
+			"fps": 24,
+			"name": "SavoryLanding",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				327
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SavoryGuitarDown"
+		},
+		{
+			"offsets": [
+				-109,
+				521
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SavoryGuitarUp"
+		},
+		{
+			"offsets": [
+				-45,
+				433
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "SavoryGuitarIdle"
+		},
+		{
+			"offsets": [
+				22,
+				444
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "catch",
+			"indices": [],
+			"name": "SavoryHatCatch"
+		},
+		{
+			"offsets": [
+				2697,
+				443
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "toss",
+			"indices": [],
+			"name": "SavoryHatToss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				340
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SavoryMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				533
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SavoryMissUp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				373
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SavoryRight"
+		},
+		{
+			"offsets": [
+				-163,
+				402
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SavoryLeft"
+		},
+		{
+			"offsets": [
+				119,
+				376
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "SavoryGuitarRight"
+		},
+		{
+			"offsets": [
+				-182,
+				386
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "SavoryGuitarLeft"
+		},
+		{
+			"offsets": [
+				131,
+				360
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SavoryMissRight"
+		},
+		{
+			"offsets": [
+				-174,
+				400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SavoryMissLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Savory",
+	"position": [
+		-50,
+		400
+	],
+	"healthicon": "savory",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		120
+	],
+	"camera_position": [
+		100,
+		-380
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

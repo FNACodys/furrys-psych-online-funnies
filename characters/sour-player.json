@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sour Idle0"
+		},
+		{
+			"offsets": [
+				-3,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-sad",
+			"indices": [],
+			"name": "Sour Idle Sad"
+		},
+		{
+			"offsets": [
+				-63,
+				-67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sour Down0"
+		},
+		{
+			"offsets": [
+				-56,
+				198
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sour Up0"
+		},
+		{
+			"offsets": [
+				-27,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Sour Up Keytar"
+		},
+		{
+			"offsets": [
+				-80,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Sour Down Keytar"
+		},
+		{
+			"offsets": [
+				-49,
+				203
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Sour Up Miss"
+		},
+		{
+			"offsets": [
+				-75,
+				-65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Sour Down Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sour Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				59
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sour Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-5
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Sour Right Keytar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-152,
+				59
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Sour Left Keytar",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				-5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sour Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				65
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sour Left Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sour",
+	"position": [
+		-250,
+		110
+	],
+	"healthicon": "sour",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		235,
+		169
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 0.95
+}

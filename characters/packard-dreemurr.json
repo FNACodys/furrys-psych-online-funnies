@@ -1,0 +1,168 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Abajo",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Arriba",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DownMISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				9
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UpMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				8
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				66,
+				10
+			],
+			"anim": "shield",
+			"fps": 24,
+			"name": "Block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				8
+			],
+			"anim": "XD",
+			"fps": 24,
+			"name": "Jijijaja",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				6
+			],
+			"anim": "intensemegalovania",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				88,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Derecha"
+		},
+		{
+			"offsets": [
+				40,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "RightMISS"
+		},
+		{
+			"offsets": [
+				119,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Izquierda"
+		},
+		{
+			"offsets": [
+				40,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "LeftMISS"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Packard Dreemurr",
+	"position": [
+		0,
+		-10
+	],
+	"healthicon": "packard",
+	"flip_x": true,
+	"healthbar_colors": [
+		98,
+		180,
+		112
+	],
+	"camera_position": [
+		-50,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				88,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				72,
+				189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				397,
+				48
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				10,
+				44
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/papyrus",
+	"position": [
+		-160,
+		-120
+	],
+	"healthicon": "icon-kinemorto-paps",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		51,
+		73
+	],
+	"camera_position": [
+		100,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

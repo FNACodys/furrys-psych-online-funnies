@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				261,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Junko Idle"
+		},
+		{
+			"offsets": [
+				298,
+				170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Junko Down"
+		},
+		{
+			"offsets": [
+				160,
+				278
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Junko Up"
+		},
+		{
+			"offsets": [
+				378,
+				155
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Junko Right"
+		},
+		{
+			"offsets": [
+				248,
+				203
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Junko Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Junko_Assets",
+	"position": [
+		60,
+		-60
+	],
+	"healthicon": "junko",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}

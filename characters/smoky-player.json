@@ -1,0 +1,190 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				235
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SmokyIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				173
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SmokyDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				253
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SmokyUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				148
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "SmokyMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				254
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "SmokyMissUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				236
+			],
+			"anim": "raveintro",
+			"fps": 24,
+			"name": "SmokyRaveIntro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				244
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "SmokyShamUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				156
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "SmokyShamDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				236
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "SmokyRaveIntro",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				229
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SmokyRight"
+		},
+		{
+			"offsets": [
+				3,
+				234
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SmokyLeft"
+		},
+		{
+			"offsets": [
+				15,
+				224
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "SmokyMissRight"
+		},
+		{
+			"offsets": [
+				5,
+				231
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "SmokyMissLeft"
+		},
+		{
+			"offsets": [
+				0,
+				229
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "SmokyShamRight"
+		},
+		{
+			"offsets": [
+				-72,
+				233
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "SmokyShamLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Smoky",
+	"position": [
+		-20,
+		220
+	],
+	"healthicon": "smoky",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		40,
+		40
+	],
+	"camera_position": [
+		150,
+		-225
+	],
+	"sing_duration": 6,
+	"scale": 0.91,
+	"_editor_isPlayer": true
+}

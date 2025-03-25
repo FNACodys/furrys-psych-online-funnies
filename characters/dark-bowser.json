@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "dark_bowser IDLE0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-158,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "dark_bowser up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-140,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "dark_bowser down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "pain",
+			"fps": 15,
+			"name": "dark_bowser pain0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ourple",
+			"fps": 15,
+			"name": "dark_bowser ourple0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "teamrocket",
+			"fps": 15,
+			"name": "dark_bowser teamrocket0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-131,
+				9
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dark_bowser left0"
+		},
+		{
+			"offsets": [
+				90,
+				-10
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dark_bowser right0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dark_bowser",
+	"position": [
+		-630,
+		-220
+	],
+	"healthicon": "bowser-dark",
+	"flip_x": true,
+	"healthbar_colors": [
+		62,
+		69,
+		137
+	],
+	"camera_position": [
+		250,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

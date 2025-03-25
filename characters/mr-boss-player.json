@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				30,
+				-37
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				89,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				54,
+				-38
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "altdown"
+		},
+		{
+			"offsets": [
+				170,
+				130
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "altup"
+		},
+		{
+			"offsets": [
+				118,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-21,
+				-17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				153,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "altright"
+		},
+		{
+			"offsets": [
+				-123,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "altleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boss",
+	"position": [
+		70,
+		200
+	],
+	"healthicon": "boss",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		211,
+		222
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
