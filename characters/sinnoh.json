@@ -1,61 +1,62 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-80,
 				-23
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "r"
+			"fps": 24,
+			"name": "r",
+			"indices": []
 		},
 		{
+			"loop": true,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": true,
-			"fps": 12,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 12,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				51,
 				10
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "l"
+			"fps": 12,
+			"name": "l",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-100
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
+			"fps": 12,
+			"name": "down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				-30
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"fps": 12,
+			"name": "up",
+			"indices": []
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": true,
 	"image": "characters/followed",
 	"position": [
@@ -70,9 +71,10 @@
 		16
 	],
 	"camera_position": [
-		0,
-		0
+		-700,
+		-300
 	],
 	"sing_duration": 6.1,
-	"scale": 3
+	"scale": 3,
+	"_editor_isPlayer": false
 }
