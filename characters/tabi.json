@@ -1,66 +1,76 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "tabiidle"
+			"fps": 24,
+			"name": "tabiidle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				90,
 				-35
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "tabileft"
+			"fps": 24,
+			"name": "tabileft",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				80,
 				-90
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "tabidown"
+			"fps": 24,
+			"name": "tabidown",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				80,
 				54
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singUP",
-			"loop": false,
-			"name": "tabiup"
+			"fps": 24,
+			"name": "tabiup",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				0
 			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tabiright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				23
+			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "hey",
 			"loop": false,
-			"name": "tabiright"
+			"name": "tabimidsong"
 		}
 	],
-	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/tabi",
 	"position": [
-		0,
+		30,
 		180
 	],
 	"healthicon": "tabi",
@@ -75,6 +85,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1,
-	"_editor_isPlayer": false
+	"scale": 1
 }
