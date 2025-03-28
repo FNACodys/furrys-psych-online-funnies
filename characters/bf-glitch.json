@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				44,
+				21
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -26,7 +26,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-10
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				-10,
 				0
 			],
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				0
+				30,
+				21
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -60,7 +60,7 @@
 	"no_antialiasing": true,
 	"image": "characters/bfGlitch",
 	"position": [
-		80,
+		200,
 		350
 	],
 	"healthicon": "bf-pixel",
@@ -75,6 +75,6 @@
 		-100
 	],
 	"sing_duration": 4,
-	"scale": 6.8,
+	"scale": 7,
 	"_editor_isPlayer": false
 }
