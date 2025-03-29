@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				72
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-2
+			],
+			"anim": "idle-save",
+			"fps": 24,
+			"name": "saveidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1338,
+				-10
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-1
+			],
+			"anim": "save",
+			"fps": 24,
+			"name": "save0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stare",
+			"indices": [],
+			"name": "stare0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				-1
+			],
+			"anim": "save-reverse",
+			"fps": 24,
+			"name": "save0",
+			"indices": [
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-43,
+				11
+			],
+			"anim": "idle-stare",
+			"fps": 24,
+			"name": "stareidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-43,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": true,
+			"name": "stareidle"
+		},
+		{
+			"offsets": [
+				22,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-32,
+				-4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/chara",
+	"position": [
+		-55,
+		350
+	],
+	"healthicon": "chara",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		805,
+		17
+	],
+	"sing_duration": 6,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

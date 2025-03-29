@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
+		},
+		{
+			"offsets": [
+				-12,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "confused",
+			"indices": [],
+			"name": "confused"
+		},
+		{
+			"offsets": [
+				348,
+				194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fireballed",
+			"indices": [],
+			"name": "fireballed"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "confused idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-19,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down-alt"
+		},
+		{
+			"offsets": [
+				-22,
+				86
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up-alt"
+		},
+		{
+			"offsets": [
+				60,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right-alt"
+		},
+		{
+			"offsets": [
+				-26,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left-alt"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/flowey",
+	"position": [
+		50,
+		470
+	],
+	"healthicon": "flowey",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		102
+	],
+	"camera_position": [
+		40,
+		-50
+	],
+	"sing_duration": 5.80000000000001,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
