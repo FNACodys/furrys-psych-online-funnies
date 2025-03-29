@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-527,
+				167
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-515,
+				409
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-409,
+				340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-529,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-513,
+				344
+			],
+			"loop": true,
+			"fps": 21,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": true,
+	"image": "characters/jason Axe",
+	"position": [
+		-620,
+		200
+	],
+	"healthicon": "jason",
+	"flip_x": false,
+	"healthbar_colors": [
+		65,
+		83,
+		71
+	],
+	"camera_position": [
+		700,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}
