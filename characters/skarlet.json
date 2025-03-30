@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-120,
+				-142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-130,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-161,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "hurt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-183,
+				-18
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-137,
+				-49
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/playableskarlet",
+	"position": [
+		-120,
+		50
+	],
+	"healthicon": "skarlet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		110
+	],
+	"camera_position": [
+		150,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

@@ -1,0 +1,91 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-211,
+				-287
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hench idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				-325
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hench down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-216,
+				-114
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hench up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				-139
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "intro",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				-261
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hench right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-312,
+				-222
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hench left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/HENCHMEN",
+	"position": [
+		-150,
+		20
+	],
+	"healthicon": "henchman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		115,
+		161
+	],
+	"camera_position": [
+		240,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1.3,
+	"_editor_isPlayer": false
+}
