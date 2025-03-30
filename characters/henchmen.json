@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-211,
 				-287
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "hench idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "hench idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-134,
 				-325
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "hench down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hench down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-216,
 				-114
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "hench up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "hench up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-126,
 				-139
 			],
-			"anim": "intro",
+			"loop": false,
 			"fps": 24,
-			"name": "intro",
-			"indices": []
+			"anim": "intro",
+			"indices": [],
+			"name": "intro"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-126,
 				-261
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "hench right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hench right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-312,
 				-222
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "hench left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hench left"
 		}
 	],
 	"vocals_file": "",
@@ -82,8 +82,8 @@
 		161
 	],
 	"camera_position": [
-		240,
-		280
+		150,
+		250
 	],
 	"sing_duration": 4,
 	"scale": 1.3,
