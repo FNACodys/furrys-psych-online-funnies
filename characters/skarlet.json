@@ -49,10 +49,10 @@
 				-183,
 				-18
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "right"
 		},
 		{
@@ -60,14 +60,13 @@
 				-137,
 				-49
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "left"
 		}
 	],
-	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/playableskarlet",
 	"position": [
@@ -82,10 +81,9 @@
 		110
 	],
 	"camera_position": [
-		150,
-		220
+		200,
+		150
 	],
 	"sing_duration": 4,
-	"scale": 1,
-	"_editor_isPlayer": false
+	"scale": 1
 }
