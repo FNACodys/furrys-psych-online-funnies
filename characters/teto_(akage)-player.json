@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-153
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "teteto down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-153
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "teteto up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-148
+			],
+			"anim": "idle",
+			"fps": 2,
+			"name": "teteto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-150
+			],
+			"anim": "singDOWN-alt",
+			"fps": 12,
+			"name": "teteto altdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-152
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "teteto altup",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-8,
+				-152
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "teteto right"
+		},
+		{
+			"offsets": [
+				1,
+				-151
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "teteto left"
+		},
+		{
+			"offsets": [
+				-8,
+				-153
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "teteto altright"
+		},
+		{
+			"offsets": [
+				-2,
+				-148
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "teteto altleft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/teteto",
+	"position": [
+		-1100,
+		-530
+	],
+	"healthicon": "icon-teteto",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		95,
+		111
+	],
+	"camera_position": [
+		-500,
+		400
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": true
+}
