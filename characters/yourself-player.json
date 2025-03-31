@@ -1,0 +1,118 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				4,
+				210
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ElUpBIG",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				9,
+				-13
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ElIdleBIG",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-117
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "ElDownBIG"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				10
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ElLeftBIG",
+			"indices": []
+		},
+		{
+			"offsets": [
+				195,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ElRightBIG"
+		},
+		{
+			"offsets": [
+				-1,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ElLeftBIG"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Lookalike_Assets",
+	"position": [
+		-100,
+		-40
+	],
+	"healthicon": "yourself",
+	"flip_x": false,
+	"healthbar_colors": [
+		124,
+		136,
+		209
+	],
+	"camera_position": [
+		100,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8,
+	"_editor_isPlayer": true
+}
