@@ -1,0 +1,113 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "oogaidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "oogaidle"
+		},
+		{
+			"offsets": [
+				108,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "oogaleft"
+		},
+		{
+			"offsets": [
+				43,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "oogadown"
+		},
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "oogaup"
+		},
+		{
+			"offsets": [
+				0,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "oogaright"
+		},
+		{
+			"offsets": [
+				43,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "voiceline",
+			"loop": false,
+			"name": "oogaboogavoice"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/OOGA BOOGA",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "ooga-booga",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		135,
+		83
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
