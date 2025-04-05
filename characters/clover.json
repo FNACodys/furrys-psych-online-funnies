@@ -1,55 +1,55 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [0, 0],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "clover idle"
+			"fps": 24,
+			"name": "clover idle",
+			"indices": []
 		},
 		{
-			"offsets": [-22, -83],
 			"loop": false,
-			"fps": 24,
+			"offsets": [-21, -76],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "clover down"
+			"fps": 24,
+			"name": "clover down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-1, -2],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "clover up"
+			"fps": 24,
+			"name": "clover up",
+			"indices": []
 		},
 		{
-			"offsets": [26, -26],
-			"indices": [],
-			"fps": 24,
+			"loop": false,
+			"offsets": [24, -24],
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "clover right"
+			"fps": 24,
+			"name": "clover right",
+			"indices": []
 		},
 		{
-			"offsets": [-62, -52],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "clover left"
+			"offsets": [-55, -47],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "clover left",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/clover-paci",
-	"position": [0, 160],
+	"position": [0, 190],
 	"healthicon": "clover",
 	"flip_x": true,
 	"healthbar_colors": [255, 233, 0],
-	"camera_position": [0, 0],
+	"camera_position": [0, 50],
 	"sing_duration": 4,
-	"scale": 1,
+	"scale": 0.9,
 	"_editor_isPlayer": false
 }
