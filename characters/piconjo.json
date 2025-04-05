@@ -1,78 +1,55 @@
 {
 	"animations": [
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
+			"fps": 12,
 			"anim": "idle",
-			"fps": 12,
-			"name": "piconjo idle",
-			"indices": []
+			"indices": [],
+			"name": "piconjo idle"
 		},
 		{
+			"offsets": [40, 0],
 			"loop": false,
-			"offsets": [
-				40,
-				0
-			],
+			"fps": 12,
 			"anim": "singLEFT",
-			"fps": 12,
-			"name": "piconjo singLEFT",
-			"indices": []
+			"indices": [],
+			"name": "piconjo singLEFT"
 		},
 		{
+			"offsets": [0, 0],
 			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
+			"fps": 12,
 			"anim": "singDOWN",
-			"fps": 12,
-			"name": "piconjo singDOWN",
-			"indices": []
+			"indices": [],
+			"name": "piconjo singDOWN"
 		},
 		{
+			"offsets": [-20, 0],
 			"loop": false,
-			"offsets": [
-				-20,
-				0
-			],
+			"fps": 12,
 			"anim": "singUP",
-			"fps": 12,
-			"name": "piconjo singUP",
-			"indices": []
+			"indices": [],
+			"name": "piconjo singUP"
 		},
 		{
+			"offsets": [-19, 0],
 			"loop": false,
-			"offsets": [
-				-19,
-				0
-			],
-			"anim": "singRIGHT",
 			"fps": 12,
-			"name": "piconjo singRIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "piconjo singRIGHT"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/piconjo",
-	"position": [
-		-150,
-		-170
-	],
+	"position": [-300, -170],
 	"healthicon": "piconjo",
 	"flip_x": false,
-	"healthbar_colors": [
-		115,
-		76,
-		200
-	],
-	"camera_position": [
-		-20,
-		120
-	],
+	"healthbar_colors": [115, 76, 200],
+	"camera_position": [-20, 120],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1,
+	"_editor_isPlayer": false
 }
