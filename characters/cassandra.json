@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "cassandra idle0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cassandra left0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cassandra down0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cassandra up0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cassandra right0"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "cassandra idlealt"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "cassandra leftalt"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "cassandra downalt"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "cassandra upalt"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "cassandra rightalt"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 16,
+			"anim": "huh",
+			"loop": false,
+			"name": "cassandra huh"
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 16,
+			"anim": "grrr",
+			"loop": false,
+			"name": "cassandra grrr"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/cassandra",
+	"position": [-380, -130],
+	"healthicon": "cassandra",
+	"flip_x": false,
+	"healthbar_colors": [171, 26, 58],
+	"camera_position": [150, 300],
+	"sing_duration": 6.1,
+	"scale": 0.7,
+	"_editor_isPlayer": false
+}
