@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [31, -355],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [21, -296],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "matt up note"
+		},
+		{
+			"loop": true,
+			"offsets": [20, -299],
+			"anim": "idle",
+			"fps": 24,
+			"name": "matt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [0, -341],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "matt left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [82, -335],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "matt right note",
+			"indices": []
+		},
+		{
+			"offsets": [56, -361],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "matt miss down"
+		},
+		{
+			"offsets": [26, -290],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "matt miss up"
+		},
+		{
+			"offsets": [80, -327],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "matt miss right"
+		},
+		{
+			"offsets": [-11, -339],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "matt miss left"
+		},
+		{
+			"offsets": [28, -265],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "deathStart"
+		},
+		{
+			"offsets": [33, -287],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [747, 41],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/matt-player",
+	"position": [70, -10],
+	"healthicon": "matt",
+	"flip_x": false,
+	"healthbar_colors": [255, 140, 20],
+	"camera_position": [540, -120],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": true
+}
