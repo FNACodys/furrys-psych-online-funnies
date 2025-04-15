@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [-131, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "UmamiIdle"
+		},
+		{
+			"offsets": [-91, -53],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "UmamiDown"
+		},
+		{
+			"offsets": [-80, 96],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UmamiUp"
+		},
+		{
+			"loop": false,
+			"offsets": [59, 106],
+			"anim": "saxcall",
+			"fps": 24,
+			"name": "UmamiSaxCall",
+			"indices": []
+		},
+		{
+			"offsets": [-131, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "UmamiSaxIdle"
+		},
+		{
+			"offsets": [-73, 84],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "UmamiSaxUp"
+		},
+		{
+			"offsets": [-183, -59],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "UmamiSaxDown"
+		},
+		{
+			"loop": false,
+			"offsets": [-82, -57],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "UmamiMissDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-68, 96],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UmamiMissUp",
+			"indices": []
+		},
+		{
+			"offsets": [-34, 40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "UmamiRight"
+		},
+		{
+			"offsets": [-134, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "UmamiLeft"
+		},
+		{
+			"offsets": [29, 48],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "UmamiSaxRight"
+		},
+		{
+			"offsets": [-134, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "UmamiSaxLeft"
+		},
+		{
+			"offsets": [-31, 40],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "UmamiMissRight"
+		},
+		{
+			"offsets": [-134, 46],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "UmamiMissLeft"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Umami",
+	"position": [-100, 70],
+	"healthicon": "umami",
+	"flip_x": false,
+	"healthbar_colors": [100, 160, 80],
+	"camera_position": [0, -20],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}
